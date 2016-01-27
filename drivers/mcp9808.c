@@ -5,7 +5,7 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/mcp9808.h"
+#include "./mcp9808.h"
 
 bool MCP9808_init(void){
 

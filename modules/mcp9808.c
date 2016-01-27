@@ -5,8 +5,8 @@
  *  Author: GroundLayer
  */ 
 
-#include "modules/drivers/mcp9808.h"
-#include "modules/modules/mcp9808.h"
+#include "../drivers/mcp9808.h"
+#include "./mcp9808.h"
 
 #include "registrar/registrar.h"
 #include "tasks/modules.h"
